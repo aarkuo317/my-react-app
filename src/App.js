@@ -21,7 +21,7 @@ function App() {
       </header>
 
     </div>
-    <div><img src="https://content.codecademy.com/courses/React/react_photo-octopus.jpg" /></div></div>
+    <div><img src="./pics/react_photo-octopus.jpg" alt='haha'/></div></div>
   );
 }
 
